@@ -1,2 +1,7 @@
-# OCR
-[![Colab](https://img.shields.io/static/v1?label=launch&message=colab&color=yellow&logo=googlecolab)](https://colab.research.google.com/drive/1j4YefJlqsJ1FdsYCHWdiX1BR9afcIzec?usp=sharing)
+# OCR Application
+
+>Here I implenented some Optical Character Recognition problems
+
+- [Simple OCR](https://github.com/Yasien99/OCR-Applications/tree/main/Words%20and%20Chars)
+- [License Plate]() 
+- [CAPTCHA]()
